@@ -1,0 +1,9 @@
+PKGBUILDs
+=========
+
+This repository keeps track of evolution of PKGBUILDs I will make for archlinux
+AUR repository.
+
+Currently this holds the PKGBUILDs for:
+
+- rcpy
